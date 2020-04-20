@@ -10,4 +10,3 @@ dist
 pyenv
 .mypy_cache
 __pycache__
-.idea/
